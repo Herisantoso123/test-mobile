@@ -1,6 +1,6 @@
 # React Native + Redux
 
-![Image of App](https://drive.google.com/file/d/17ixDOLetXa4arx1_lWFVuopUwHZPw6b1/view?usp=sharing)
+![App Preview](https://github.com/amarthaid/test-mobile/raw/master/Problem-2/animation.gif)
 
 ## Instruction
 Create an App using React Native that download message data from Firebase. Show the downloaded messages in a list and add a detail screen that shows the selected message in detail. Please demonstrate how you could solve the problem using Redux.
