@@ -10,7 +10,8 @@ Javascript ES6
 
 ## Important Notes
 1. The App should download the data from [this firebase database](https://rnreduxtest.firebaseio.com/e5d65252-21c8-4030-951f-8a441d886740).
-2. Read status should be store locally
-3. Message should be sorted by latest date, and unread messages should be prioritized
-4. Unread message count should reflect the number of unread message in local data
-5. Show only the excerpt of the messages in list view
+2. Read status should be stored locally
+3. Message should be flagged as read once the message is opened
+4. Message should be sorted by latest date, and unread messages should be prioritized
+5. Unread message count should reflect the number of unread message in local data
+6. Show only the excerpt of the messages in list view
